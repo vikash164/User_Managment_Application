@@ -104,6 +104,9 @@ const App = () => {
       <h3 style={textStyle}>User Management Application</h3>
 
       <br />
+     
+
+
       <AddDetails onAdd={onAdd} />
       <div>
         {users.map((user) => (
