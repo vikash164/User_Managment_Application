@@ -1,0 +1,8 @@
+.list {
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+    margin: 20px;
+    margin-left: 30%;
+  }
+  
